@@ -1,0 +1,100 @@
+review_id	order_id	product_id	rating	review_text	review_time
+1	4	1157	2	Not great quality.	2022-02-01T00:00:00
+2	7	405	4	Good value for money!	2020-03-07T00:00:00
+3	7	487	5	Excellent product, highly recommend!	2024-12-26T00:00:00
+4	7	442	5	Excellent product, highly recommend!	2021-03-18T00:00:00
+5	7	348	4	Good value for money!	2025-09-30T00:00:00
+6	23	1018	4	Good value for money!	2021-12-11T00:00:00
+7	33	769	2	Not great quality.	2021-06-04T00:00:00
+8	36	602	4	Good value for money!	2025-07-10T00:00:00
+9	36	351	5	Excellent product, highly recommend!	2020-05-08T00:00:00
+10	49	501	3	Okay overall.	2023-02-12T00:00:00
+11	50	535	5	Excellent product, highly recommend!	2022-05-05T00:00:00
+12	52	466	4	Good value for money!	2023-11-06T00:00:00
+13	52	198	5	Excellent product, highly recommend!	2021-11-15T00:00:00
+14	52	458	5	Excellent product, highly recommend!	2025-09-16T00:00:00
+15	52	277	5	Excellent product, highly recommend!	2021-12-05T00:00:00
+16	54	177	2	Not great quality.	2021-10-02T00:00:00
+17	54	259	4	Good value for money!	2024-09-23T00:00:00
+18	60	458	4	Good value for money!	2022-12-10T00:00:00
+19	60	1009	5	Excellent product, highly recommend!	2024-09-18T00:00:00
+20	60	284	3	Okay overall.	2025-04-03T00:00:00
+21	60	892	5	Excellent product, highly recommend!	2021-12-14T00:00:00
+22	63	977	3	Okay overall.	2022-07-04T00:00:00
+23	65	732	5	Excellent product, highly recommend!	2020-03-27T00:00:00
+24	67	10	5	Excellent product, highly recommend!	2021-01-19T00:00:00
+25	68	907	3	Okay overall.	2021-04-12T00:00:00
+26	68	913	3	Okay overall.	2024-07-17T00:00:00
+27	75	1171	5	Excellent product, highly recommend!	2023-11-28T00:00:00
+28	75	1163	3	Okay overall.	2023-12-12T00:00:00
+29	75	1053	5	Excellent product, highly recommend!	2020-05-06T00:00:00
+30	75	1014	5	Excellent product, highly recommend!	2020-02-08T00:00:00
+31	80	973	4	Good value for money!	2023-09-16T00:00:00
+32	84	563	5	Excellent product, highly recommend!	2023-07-24T00:00:00
+33	86	200	3	Okay overall.	2023-07-29T00:00:00
+34	86	291	4	Good value for money!	2020-01-05T00:00:00
+35	86	249	1	Very disappointed, would not buy again.	2023-06-08T00:00:00
+36	100	932	5	Excellent product, highly recommend!	2022-09-14T00:00:00
+37	100	1041	4	Good value for money!	2023-09-06T00:00:00
+38	103	861	1	Very disappointed, would not buy again.	2023-01-13T00:00:00
+39	106	891	5	Excellent product, highly recommend!	2022-09-14T00:00:00
+40	115	855	5	Excellent product, highly recommend!	2025-01-09T00:00:00
+41	115	685	4	Good value for money!	2025-04-23T00:00:00
+42	115	333	4	Good value for money!	2023-08-29T00:00:00
+43	121	109	4	Good value for money!	2023-03-09T00:00:00
+44	121	132	4	Good value for money!	2024-06-06T00:00:00
+45	122	258	5	Excellent product, highly recommend!	2023-06-17T00:00:00
+46	130	1104	3	Okay overall.	2021-11-28T00:00:00
+47	137	1017	5	Excellent product, highly recommend!	2023-06-18T00:00:00
+48	137	404	5	Excellent product, highly recommend!	2025-08-26T00:00:00
+49	138	1096	3	Okay overall.	2023-03-06T00:00:00
+50	138	369	4	Good value for money!	2020-02-21T00:00:00
+51	156	8	4	Good value for money!	2025-06-03T00:00:00
+52	158	217	5	Excellent product, highly recommend!	2023-01-18T00:00:00
+53	165	942	3	Okay overall.	2020-12-20T00:00:00
+54	166	783	4	Good value for money!	2024-02-06T00:00:00
+55	166	769	2	Not great quality.	2024-12-03T00:00:00
+56	170	1007	4	Good value for money!	2022-04-02T00:00:00
+57	170	890	3	Okay overall.	2025-05-31T00:00:00
+58	173	987	5	Excellent product, highly recommend!	2020-06-18T00:00:00
+59	173	514	4	Good value for money!	2024-05-04T00:00:00
+60	174	1144	4	Good value for money!	2020-03-13T00:00:00
+61	181	173	4	Good value for money!	2021-11-05T00:00:00
+62	181	659	3	Okay overall.	2020-09-15T00:00:00
+63	181	436	3	Okay overall.	2022-01-14T00:00:00
+64	187	845	5	Excellent product, highly recommend!	2021-02-10T00:00:00
+65	187	728	4	Good value for money!	2022-04-18T00:00:00
+66	188	675	3	Okay overall.	2022-07-16T00:00:00
+67	188	879	5	Excellent product, highly recommend!	2020-06-04T00:00:00
+68	188	309	4	Good value for money!	2020-05-27T00:00:00
+69	188	1022	4	Good value for money!	2023-04-05T00:00:00
+70	191	494	5	Excellent product, highly recommend!	2021-09-09T00:00:00
+71	194	371	5	Excellent product, highly recommend!	2024-04-25T00:00:00
+72	194	563	5	Excellent product, highly recommend!	2022-06-18T00:00:00
+73	194	51	4	Good value for money!	2022-07-07T00:00:00
+74	195	979	3	Okay overall.	2024-09-19T00:00:00
+75	195	678	5	Excellent product, highly recommend!	2024-11-01T00:00:00
+76	195	313	5	Excellent product, highly recommend!	2022-12-28T00:00:00
+77	207	142	5	Excellent product, highly recommend!	2021-06-29T00:00:00
+78	207	653	5	Excellent product, highly recommend!	2025-10-19T00:00:00
+79	211	386	4	Good value for money!	2024-06-23T00:00:00
+80	211	371	3	Okay overall.	2022-08-23T00:00:00
+81	211	429	4	Good value for money!	2020-03-11T00:00:00
+82	216	173	2	Not great quality.	2021-09-01T00:00:00
+83	216	1177	4	Good value for money!	2021-11-17T00:00:00
+84	217	1193	4	Good value for money!	2023-09-07T00:00:00
+85	223	468	4	Good value for money!	2021-03-28T00:00:00
+86	225	203	5	Excellent product, highly recommend!	2022-08-21T00:00:00
+87	233	911	3	Okay overall.	2022-03-03T00:00:00
+88	233	896	3	Okay overall.	2023-09-24T00:00:00
+89	244	949	3	Okay overall.	2022-12-08T00:00:00
+90	244	981	4	Good value for money!	2024-09-11T00:00:00
+91	261	455	4	Good value for money!	2025-09-12T00:00:00
+92	261	971	5	Excellent product, highly recommend!	2021-12-07T00:00:00
+93	269	773	4	Good value for money!	2025-09-17T00:00:00
+94	269	731	5	Excellent product, highly recommend!	2025-03-21T00:00:00
+95	269	748	5	Excellent product, highly recommend!	2025-07-20T00:00:00
+96	269	853	5	Excellent product, highly recommend!	2025-02-04T00:00:00
+97	276	555	2	Not great quality.	2021-03-21T00:00:00
+98	279	1126	3	Okay overall.	2020-01-17T00:00:00
+99	279	1099	4	Good value for money!	2025-02-21T00:00:00
